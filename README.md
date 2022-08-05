@@ -1,6 +1,6 @@
 # SocialNetworkAPI
 
-Simple API where master can get requests from people wanting to repair their phones, when the master starts repairing, the cutomer can't change it's request. 
+Simple API where master can get requests from people wanting to repair their phones, when the master starts repairing, the cutomer can't change their request. 
 
 When the work is done master sends an invoice with the price, as soon as the customer pays it, master can't change the invoice anymore.
 
